@@ -16,5 +16,5 @@ With my project you will have window for the launch with all the main parameters
 new configuration scripts will be prepared and launched, a "classic" terminal windows will be opened, as usual, to check the stream.
 When you want stop, close the terminal window, and at this point you can change parameters in the window or stop the activity. 
 
-Pay attention to the power cursor, if you need to change power you will need to stop and restart, the windows.
+Pay attention to the power cursor, if you need to change power you will need to stop and restart, the console windows.
 
